@@ -1,5 +1,6 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import { SignUpPage, LoginPage, LandingPage } from "./Views";
 
 function App() {
   return (
